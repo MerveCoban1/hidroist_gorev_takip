@@ -1,0 +1,37 @@
+body{
+    background: url(../images/bck3.jpg);
+}
+main{
+    width: 20%;
+    height: 50%;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+}
+form input{
+    border: 2px solid rgba(79,79,79,0.1);
+    background:white;
+    width: 200px;
+    height: 25px;
+    margin-top: 5px;
+}
+input[type="submit"]{
+    border: 2px solid rgba(79,79,79,0.1);
+    background: white;
+    margin-top: 10px;
+    width: 70px;
+}
+form input[type="submit"]:hover{
+    background-color: rgba(79,79,79,0.2);
+}
+/***********************************************/
+@media (max-width:480px){
+    main{
+        width: 100%;   
+    }
+}
+@media (max-width:1024px) and (min-width:480px){
+    main{
+        width: 100%;   
+    }
+}

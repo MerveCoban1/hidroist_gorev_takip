@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Görev Takip Uygulaması</title>
+</head>
+<body> 
+    <main>
+        <div id="logo"><img src="images/logo.png" title="Hidroist"></div>  
+        <div id="ogrenciGirisi">
+            <form action="ogrenciGirisi.php" method="POST">
+                <img src="images/userNameImage.png">
+                <input type="text" name="kullaniciAdi" placeholder="Kullanıcı Adı:">
+                <br>
+                <img src="images/passwordImage.png">
+                <input type="password" name="sifre" placeholder="Sifre:">
+                <br>
+                <input type="submit" value="Giriş Yap">
+            </form>
+            <div id="secenek">
+                <button id="ogrenciGircek" style="background-color: rgba(79,79,79,0.2);">Öğrenci Girişi</button>
+                <button id="ogretmenGircek">Öğretmen Girişi</button>
+            </div>
+        </div>
+        <div id="ogretmenGirisi">
+            <form action="ogretmenGirisi.php" method="POST">
+                <img src="images/userNameImage.png">
+                <input type="text" name="kullaniciAdi2" placeholder="Kullanıcı Adı:">
+                <br>
+                <img src="images/passwordImage.png">
+                <input type="password" name="sifre2" placeholder="Sifre:">
+                <br>
+                <input type="submit" value="Giris Yap">
+            </form>
+            <div id="secenek">
+                <button id="ogrenciGircek2">Öğrenci Girişi</button>
+                <button id="ogretmenGircek2" style="background-color: rgba(79,79,79,0.2);">Öğretmen Girişi</button>
+            </div>
+        </div> 
+        <p style="text-align:center"><a href="goruntule.php" style="color: black; font-size:12px;">Giriş Yapmadan Görüntüle</a></p>   
+    </main>
+</body>
+<script>
+    var ogrenciGircek=document.getElementById("ogrenciGircek");
+    var ogrenciGircek2=document.getElementById("ogrenciGircek2");
+    var ogretmenGircek=document.getElementById("ogretmenGircek");
+    var ogretmenGircek2=document.getElementById("ogretmenGircek2");
+    var ogretmenGirisi=document.getElementById("ogretmenGirisi");
+    var ogrenciGirisi=document.getElementById("ogrenciGirisi");
+    ogretmenGircek.onclick=function(){
+        ogretmenGirisi.style.display="inherit";
+        ogrenciGirisi.style.display="none";
+    }
+    ogrenciGircek.onclick=function(){
+        ogrenciGirisi.style.display="inherit";
+        ogretmenGirisi.style.display="none";
+    }
+    ogretmenGircek2.onclick=function(){
+        ogretmenGirisi.style.display="inherit";
+        ogrenciGirisi.style.display="none";
+    }
+    ogrenciGircek2.onclick=function(){
+        ogrenciGirisi.style.display="inherit";
+        ogretmenGirisi.style.display="none";
+    }
+</script>
+</html>

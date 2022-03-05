@@ -1,0 +1,854 @@
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 32
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 34
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 35
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 67
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 69
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 70
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 102
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 104
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 105
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 137
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 139
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 140
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 174
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 176
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 177
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 209
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 211
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 212
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 244
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 246
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 247
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 279
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 281
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 282
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 316
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 318
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 319
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 351
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 353
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 354
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 386
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 388
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 389
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 421
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 423
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 424
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 458
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 460
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 461
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 493
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 495
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 496
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 528
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 530
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 531
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 563
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 565
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 566
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 600
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 602
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 603
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 635
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 637
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 638
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 670
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 672
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 673
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 705
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 707
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 708
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 742
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 744
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 745
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 777
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 779
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 780
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 812
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 814
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 815
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 847
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 849
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 850
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 884
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 886
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 887
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 919
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 921
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 922
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 954
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 956
+[26-Mar-2021 18:05:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 957
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 32
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 34
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 35
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 67
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 69
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 70
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 102
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 104
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 105
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 137
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 139
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 140
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 174
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 176
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 177
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 209
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 211
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 212
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 244
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 246
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 247
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 279
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 281
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 282
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 316
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 318
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 319
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 351
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 353
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 354
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 386
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 388
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 389
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 421
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 423
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 424
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 458
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 460
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 461
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 493
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 495
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 496
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 528
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 530
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 531
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 563
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 565
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 566
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 600
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 602
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 603
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 635
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 637
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 638
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 670
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 672
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 673
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 705
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 707
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 708
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 742
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 744
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 745
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 777
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 779
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 780
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 812
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 814
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 815
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 847
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 849
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 850
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 884
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 886
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 887
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 919
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 921
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 922
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 954
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 956
+[26-Mar-2021 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 957
+[26-Mar-2021 18:08:21 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/ogrenciGirisi.php on line 5
+[26-Mar-2021 18:09:14 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/ogretmenGirisi.php on line 5
+[26-Mar-2021 18:11:33 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/ogretmenGirisi.php on line 5
+[26-Mar-2021 20:52:05 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 32
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 34
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 35
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 67
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 69
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 70
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 102
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 104
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 105
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 137
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 139
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 140
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 174
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 176
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 177
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 209
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 211
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 212
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 244
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 246
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 247
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 279
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 281
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 282
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 316
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 318
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 319
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 351
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 353
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 354
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 386
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 388
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 389
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 421
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 423
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 424
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 458
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 460
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 461
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 493
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 495
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 496
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 528
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 530
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 531
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 563
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 565
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 566
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 600
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 602
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 603
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 635
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 637
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 638
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 670
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 672
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 673
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 705
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 707
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 708
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 742
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 744
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 745
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 777
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 779
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 780
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 812
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 814
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 815
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 847
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 849
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 850
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 884
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 886
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 887
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 919
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 921
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 922
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 954
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 956
+[26-Mar-2021 20:52:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/goruntule.php on line 957
+[26-Mar-2021 20:52:28 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'Merve'@'localhost' to database 'GorevUygulamasi' in /home/fhtl794gr69e/public_html/HidroistGorevArayuzu/ogrenciGirisi.php on line 5
+[27-Mar-2021 07:58:11 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 07:58:11 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 07:58:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 14:26:16 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 3
+[27-Mar-2021 15:09:05 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:09:05 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:09:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:16:46 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:16:46 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:16:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:17:56 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:17:56 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:17:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:18:04 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:18:04 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:18:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:21:57 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:21:57 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:21:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:23:59 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:23:59 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:23:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:34:06 UTC] PHP Notice:  Undefined index: atilacakMail in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 2
+[27-Mar-2021 15:34:06 UTC] PHP Notice:  Undefined index: icerik in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 3
+[27-Mar-2021 15:34:07 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:34:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:36:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:37:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:40:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:42:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:43:47 UTC] PHP Warning:  A non-numeric value encountered in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 4
+[27-Mar-2021 15:43:47 UTC] PHP Warning:  A non-numeric value encountered in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 4
+[27-Mar-2021 15:43:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:44:26 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:45:52 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 15:51:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[27-Mar-2021 18:36:20 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 3
+[27-Mar-2021 18:46:33 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 3
+[27-Mar-2021 18:46:33 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 6
+[27-Mar-2021 18:46:33 UTC] PHP Notice:  Undefined index: who in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 7
+[27-Mar-2021 18:46:33 UTC] PHP Notice:  Undefined variable: link in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 28
+[27-Mar-2021 18:46:33 UTC] PHP Notice:  Undefined variable: name in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 52
+[27-Mar-2021 19:00:52 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 3
+[27-Mar-2021 19:00:52 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 6
+[27-Mar-2021 19:00:52 UTC] PHP Notice:  Undefined index: who in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 7
+[27-Mar-2021 19:00:52 UTC] PHP Notice:  Undefined variable: link in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 28
+[27-Mar-2021 19:00:52 UTC] PHP Notice:  Undefined variable: name in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 52
+[30-Mar-2021 06:13:49 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 3
+[30-Mar-2021 06:13:49 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 6
+[30-Mar-2021 06:13:49 UTC] PHP Notice:  Undefined index: who in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 7
+[30-Mar-2021 06:13:49 UTC] PHP Notice:  Undefined variable: link in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 28
+[30-Mar-2021 06:13:49 UTC] PHP Notice:  Undefined variable: name in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 52
+[30-Mar-2021 12:20:24 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/gorevEkle.php on line 3
+[30-Mar-2021 12:34:37 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[30-Mar-2021 12:35:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[30-Mar-2021 12:36:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[30-Mar-2021 12:38:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[30-Mar-2021 12:38:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[30-Mar-2021 15:30:42 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 3
+[30-Mar-2021 15:30:42 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 6
+[30-Mar-2021 15:30:42 UTC] PHP Notice:  Undefined index: who in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 7
+[30-Mar-2021 15:30:42 UTC] PHP Notice:  Undefined variable: link in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 28
+[30-Mar-2021 15:30:42 UTC] PHP Notice:  Undefined variable: name in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 52
+[30-Mar-2021 18:09:54 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgrenci.php on line 3
+[31-Mar-2021 06:12:07 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgrenci.php on line 3
+[31-Mar-2021 16:24:46 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 3
+[31-Mar-2021 16:24:46 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 6
+[31-Mar-2021 16:24:46 UTC] PHP Notice:  Undefined index: who in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 7
+[31-Mar-2021 16:24:46 UTC] PHP Notice:  Undefined variable: link in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 28
+[31-Mar-2021 16:24:46 UTC] PHP Notice:  Undefined variable: name in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 52
+[02-Apr-2021 10:02:48 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgrenci.php on line 3
+[02-Apr-2021 12:22:37 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 3
+[02-Apr-2021 12:22:37 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:22:37 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:23:04 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 3
+[02-Apr-2021 12:23:04 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:23:04 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:23:39 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 3
+[02-Apr-2021 12:23:39 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:23:39 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:24:13 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 3
+[02-Apr-2021 12:24:13 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:24:13 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:28:08 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:28:18 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:32:09 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:32:10 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:32:17 UTC] PHP Notice:  Undefined index: merve_ in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 7
+[02-Apr-2021 12:34:07 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:34:09 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:34:10 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:34:44 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:34:45 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:34:52 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 12:34:52 UTC] PHP Warning:  move_uploaded_file(yuklenenDosyalar/merve/mervee,.txt): failed to open stream: No such file or directory in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 12:34:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfulRVm' to 'yuklenenDosyalar/merve/mervee,.txt' in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 12:35:35 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:35:41 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 12:54:39 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:54:39 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:58:55 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:58:55 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:59:04 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 12:59:27 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:59:27 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 12:59:32 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 12:59:56 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 12:59:56 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:00:41 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:00:41 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:00:48 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 13:01:37 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:01:37 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:01:43 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 13:02:30 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:02:30 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:02:31 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:02:31 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:02:32 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:02:32 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:02:33 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:02:33 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 13:02:39 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 5
+[02-Apr-2021 13:04:17 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:04:21 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:04:26 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 4
+[02-Apr-2021 13:04:26 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 4
+[02-Apr-2021 13:04:26 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 13:33:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fhtl794gr69e/public_html/GorevTakip/dosyaListele.php on line 9
+[02-Apr-2021 13:33:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fhtl794gr69e/public_html/GorevTakip/dosyaListele.php on line 9
+[02-Apr-2021 13:41:00 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/dosyaListele.php on line 3
+[02-Apr-2021 13:41:00 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaListele.php on line 6
+[02-Apr-2021 13:51:40 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:51:51 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 4
+[02-Apr-2021 13:51:51 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 4
+[02-Apr-2021 13:51:51 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 13:51:53 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 13:52:06 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 4
+[02-Apr-2021 13:52:06 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 4
+[02-Apr-2021 13:52:06 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 13:56:12 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 14:12:11 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 14:12:33 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:12:33 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:18:22 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 14:18:32 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:18:32 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:28:32 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 14:28:42 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:28:42 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:29:26 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 14:29:32 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 14:29:41 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 14:29:41 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 13
+[02-Apr-2021 17:34:07 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:34:07 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 17:34:17 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 14
+[02-Apr-2021 17:36:06 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:36:06 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 24
+[02-Apr-2021 17:36:11 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 16
+[02-Apr-2021 17:37:25 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:37:26 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:37:31 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 17:37:31 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[02-Apr-2021 17:37:31 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 21
+[02-Apr-2021 17:37:31 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 24
+[02-Apr-2021 17:37:31 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 24
+[02-Apr-2021 17:37:55 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:38:00 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 6
+[02-Apr-2021 17:38:00 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[02-Apr-2021 17:38:00 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 21
+[02-Apr-2021 17:38:00 UTC] PHP Notice:  Undefined variable: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 24
+[02-Apr-2021 17:38:00 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 24
+[02-Apr-2021 17:38:58 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:39:00 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:39:04 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 22
+[02-Apr-2021 17:39:31 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:39:32 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:39:36 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[02-Apr-2021 17:46:14 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 17:47:19 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 19:07:56 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[02-Apr-2021 19:08:04 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 10:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:48:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:48:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:48:57 UTC] PHP Notice:  Undefined variable: mysqli in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 10:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 10:48:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 10:48:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 10:48:59 UTC] PHP Notice:  Undefined variable: mysqli in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 10:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 10:51:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:51:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:51:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:51:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:51:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:51:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:53:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:53:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:53:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:53:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:53:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:53:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:53:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:53:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:53:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 10:53:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:54:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 10:54:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 11:03:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 11:03:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 11:03:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 11:03:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 40
+[03-Apr-2021 11:08:17 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 11:08:29 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 11:10:22 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 11:10:32 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 11:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 11:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 39
+[03-Apr-2021 11:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:19:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:21:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:21:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:21:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:21:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:21:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:22:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:22:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:22:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:22:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:22:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:22:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:22:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:22:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:22:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:30:35 UTC] PHP Warning:  rmdir(yuklenenDosyalar/MerveCoban/mervee,.txt): Not a directory in /home/fhtl794gr69e/public_html/GorevTakip/dosyaSil.php on line 4
+[03-Apr-2021 11:31:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:31:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:31:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:31:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:31:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:31:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:31:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:31:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:31:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:31:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:31:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:31:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:31:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:31:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:31:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:31:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:31:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:31:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:33:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:33:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:33:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:33:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:33:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:33:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:40:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:40:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:40:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:40:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:40:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:40:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:41:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:41:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:41:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:42:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:42:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:42:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:42:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:42:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:42:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:43:09 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 11:43:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:43:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:43:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:43:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:43:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:43:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:43:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:43:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:43:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:43:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:43:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:43:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:43:35 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 11:43:42 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 11:43:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:43:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:43:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:44:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:44:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:44:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:57:24 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/fhtl794gr69e/public_html/GorevTakip/dosyaListele.php on line 27
+[03-Apr-2021 11:57:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 11:57:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 11:57:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 11:57:37 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ',' or ';' in /home/fhtl794gr69e/public_html/GorevTakip/yukledigimDosyalar.php on line 26
+[03-Apr-2021 12:00:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:00:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:00:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:11 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 12:14:17 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 12:14:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:29 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 12:14:34 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 12:14:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:36 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 12:14:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:14:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:14:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:14:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:44:35 UTC] PHP Warning:  require(/home/fhtl794gr69e/public_html/PHPMailer.php): failed to open stream: No such file or directory in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 5
+[03-Apr-2021 12:44:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/fhtl794gr69e/public_html/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fhtl794gr69e/public_html/GorevTakip/mailAt.php on line 5
+[03-Apr-2021 12:51:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:51:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:51:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:51:28 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[03-Apr-2021 12:51:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:51:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:51:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:52:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:52:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:52:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:52:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:52:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:52:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:52:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:52:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:52:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:52:14 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 12:52:33 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 12:52:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:52:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:52:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:52:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:52:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:52:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:53:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:53:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:53:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:53:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:53:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:53:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:53:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[03-Apr-2021 12:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:55:09 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[03-Apr-2021 12:55:23 UTC] PHP Notice:  Undefined variable: odevno in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle2.php on line 20
+[03-Apr-2021 12:55:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:55:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:55:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:55:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:55:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:55:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:56:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:56:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:56:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[03-Apr-2021 12:56:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[03-Apr-2021 12:56:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[03-Apr-2021 12:56:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[04-Apr-2021 17:33:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[04-Apr-2021 17:33:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[04-Apr-2021 17:33:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[04-Apr-2021 17:33:05 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[04-Apr-2021 17:33:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[04-Apr-2021 17:33:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[04-Apr-2021 17:33:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[04-Apr-2021 17:33:08 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[04-Apr-2021 17:33:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[04-Apr-2021 17:33:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[04-Apr-2021 17:33:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 10:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 10:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 10:53:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 10:59:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 10:59:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 10:59:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:03:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 11:08:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 11:15:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 11:15:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 11:15:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:15:10 UTC] PHP Notice:  Undefined index: kim in /home/fhtl794gr69e/public_html/GorevTakip/dosyaYukle.php on line 6
+[05-Apr-2021 11:15:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 11:15:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 11:15:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:15:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 11:15:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 11:15:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:15:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 11:15:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 11:15:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:50:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 11:50:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 11:50:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 11:50:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:50:54 UTC] PHP Notice:  Undefined variable: sonTarih in /home/fhtl794gr69e/public_html/GorevTakip/gorevGuncelle2.php on line 21
+[05-Apr-2021 11:50:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 11:55:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 695
+[05-Apr-2021 11:55:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 696
+[05-Apr-2021 11:55:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 697
+[05-Apr-2021 11:55:51 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 11:55:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 695
+[05-Apr-2021 11:55:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 696
+[05-Apr-2021 11:55:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 697
+[05-Apr-2021 11:56:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 695
+[05-Apr-2021 11:56:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 696
+[05-Apr-2021 11:56:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 697
+[05-Apr-2021 11:57:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 11:57:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 11:57:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 11:57:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 11:57:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 11:57:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 11:57:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 11:57:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 11:57:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:04:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:04:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:04:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:06:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:06:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:06:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:06:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:06:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:06:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:07:16 UTC] PHP Notice:  Undefined index: konu in /home/fhtl794gr69e/public_html/GorevTakip/gorevEkle2.php on line 16
+[05-Apr-2021 12:07:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:07:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:07:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:07:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:07:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:07:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:07:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:09:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:09:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:09:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:09:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:09:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:09:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:09:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:09:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:09:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:09:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:09:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:09:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:09:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:10:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:10:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:10:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:12:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:12:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:12:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:12:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:13:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:13:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:13:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:13:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:13:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:13:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:13:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:13:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:13:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:13:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 12:13:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 12:13:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 12:13:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 12:13:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 12:13:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 12:15:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:15:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:15:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:20:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:20:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:20:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:21:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:21:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:21:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:24:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:24:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:24:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:24:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:27:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:27:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:27:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:27:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:28:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:28:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:28:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:28:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:41:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:41:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:41:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:43:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:43:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:43:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:43:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:43:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:43:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:44:20 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fhtl794gr69e/public_html/PHPMailerAutoload.php on line 45
+[05-Apr-2021 12:44:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:44:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:44:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:44:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[05-Apr-2021 12:44:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[05-Apr-2021 12:44:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[05-Apr-2021 12:44:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 12:44:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 12:44:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 19:47:25 UTC] PHP Notice:  Undefined index: kullaniciAdi in /home/fhtl794gr69e/public_html/GorevTakip/ogrenciGirisi.php on line 3
+[05-Apr-2021 19:47:25 UTC] PHP Notice:  Undefined index: sifre in /home/fhtl794gr69e/public_html/GorevTakip/ogrenciGirisi.php on line 4
+[05-Apr-2021 20:46:20 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 3
+[05-Apr-2021 20:46:20 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 6
+[05-Apr-2021 20:46:20 UTC] PHP Notice:  Undefined index: who in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 7
+[05-Apr-2021 20:46:20 UTC] PHP Notice:  Undefined variable: link in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 28
+[05-Apr-2021 20:46:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 41
+[05-Apr-2021 20:46:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 42
+[05-Apr-2021 20:46:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 43
+[05-Apr-2021 20:46:20 UTC] PHP Notice:  Undefined variable: name in /home/fhtl794gr69e/public_html/GorevTakip/hesabim.php on line 56
+[10-Apr-2021 16:41:27 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 3
+[10-Apr-2021 16:41:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 7
+[10-Apr-2021 16:41:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 8
+[10-Apr-2021 16:41:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgretmen.php on line 9
+[10-Apr-2021 20:33:49 UTC] PHP Notice:  Undefined index: kullaniciAdi in /home/fhtl794gr69e/public_html/GorevTakip/ogrenciGirisi.php on line 3
+[10-Apr-2021 20:33:49 UTC] PHP Notice:  Undefined index: sifre in /home/fhtl794gr69e/public_html/GorevTakip/ogrenciGirisi.php on line 4
+[11-Apr-2021 18:19:31 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/anasayfaOgrenci.php on line 3
+[12-Apr-2021 08:41:10 UTC] PHP Notice:  Undefined index: user in /home/fhtl794gr69e/public_html/GorevTakip/gorevEkle.php on line 3
+[17-Apr-2021 19:14:10 UTC] PHP Notice:  Undefined index: kullaniciAdi in /home/fhtl794gr69e/public_html/GorevTakip/ogrenciGirisi.php on line 3
+[17-Apr-2021 19:14:10 UTC] PHP Notice:  Undefined index: sifre in /home/fhtl794gr69e/public_html/GorevTakip/ogrenciGirisi.php on line 4

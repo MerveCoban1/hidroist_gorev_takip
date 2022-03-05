@@ -1,0 +1,143 @@
+/*header*/
+header{
+    z-index: 4; 
+    width: 98%;
+    height: 3.5em;
+    position:sticky;
+    top: 0;
+    background-color: white;
+}
+#logo{
+    float: left;
+    width: 20%;
+    height: 100%;
+}
+#logo img{
+    width: 45px ;
+    height: 45px;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+nav{ 
+    float: left;
+    width: 14%;
+    height: 100%;
+    margin-left:65%;
+}
+nav ul li{
+    margin-top: 2%;
+    float: left; 
+    margin-left: 10%;   
+}
+nav ul{
+    list-style-type: none;  
+}
+/*main*/
+main{
+    z-index: 1;
+    position: relative;
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    height: auto;
+}
+#profil{
+    z-index: 1;
+    position: relative;
+    float: left;
+    width: 30%;
+    height: 80%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    border-bottom: 3px solid #eee9e9;
+    border-top: 1px solid #eee9e9;
+    border-left: 1px solid #eee9e9;
+    border-right: 3px solid #eee9e9;
+}
+#gorevler{
+    z-index: 1;
+    position: relative;
+    float: left;
+    width: 65%;
+    height: 470px;
+    margin-left: 2%;
+    overflow-y: scroll;
+    scrollbar-color: #cdc9c9;
+    scrollbar-width: 10px;
+    border-bottom: 3px solid #eee9e9;
+    border-top: 1px solid #eee9e9;
+    border-left: 1px solid #eee9e9;
+    border-right: 3px solid #eee9e9;
+}
+#profilResmi{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 1px solid #cdc9c9;
+}
+#profil p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+#gorevler p{
+    text-align: center;
+    color: #363636;
+}
+.baslik{
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid #eee9e9;
+    padding-bottom: 3%;
+}
+/***********************************************/
+@media (max-width:510px){
+    nav{ 
+        width: 50%;
+        margin-left:30%;
+    }
+    nav ul li{
+        margin-left: 18%;   
+    }
+    main{
+        width: 100%;
+    }
+    #profil{
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin-left:8%;
+        margin-bottom: 5%;
+    }
+    #gorevler{
+        float: none;
+        width: 90%;
+        height: 470px;
+        margin-left: 2%;
+    }
+}
+@media (max-width:1024px) and (min-width:510px){
+    nav{ 
+        width: 40%;
+        margin-left:40%;
+    }
+    nav ul li{
+        margin-left: 15%;   
+    }
+    main{
+        width: 100%;
+    }
+    #profil{
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin-left:8%;
+        margin-bottom: 5%;
+    }
+    #gorevler{
+        float: none;
+        width: 90%;
+        height: 470px;
+        margin-left: 2%;
+    }
+}
